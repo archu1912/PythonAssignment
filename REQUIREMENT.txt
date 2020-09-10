@@ -1,0 +1,3 @@
+Python == 3.8.2
+Flask == 1.1.2 (pip install flask)
+CORS (pip install -U flask-cors)
